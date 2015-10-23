@@ -3,4 +3,4 @@ Shell repo for Statamic 2.0 beta
 
 ---
 
-Nothing to see here.
+Pre-Alpha-5
