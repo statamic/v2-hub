@@ -1,6 +1,6 @@
 # v2-beta
-Shell repo for Statamic 2.0 beta
+Shell repo for Statamic 2.0 alpha/beta
 
 ---
 
-Pre-Alpha-5
+Alpha ONE.
