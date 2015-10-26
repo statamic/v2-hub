@@ -16,7 +16,7 @@ Thank you for being willing to try, test, and experiment with pre-release softwa
 - Any unusually long load times
 - Anything named awkwardly, organized unintuitively, or any workflows that are unnatural
 
-** DON'T report any of the following:
+**DON'T** report any of the following:
 
 - Visual inconsistencies between sections of the Control Panel
 - Missing/untranslatable strings in the Control Panel
