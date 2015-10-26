@@ -20,6 +20,7 @@ The Control Panel hasn't had it's final round of polishing, so be gentle.
 - Inconsistencies between v1 and v2 not already documented as intentional
 - Any unusually long load times
 - Anything named awkwardly, organized unintuitively, or any workflows that are unnatural
+- Suggest UX improvements and how they might be accomplished
 
 **DON'T** report any of the following:
 
@@ -27,3 +28,4 @@ The Control Panel hasn't had it's final round of polishing, so be gentle.
 - Missing/untranslatable strings in the Control Panel
 - Unfinished features not already documented as unfinished
 - Typos or bad grammar in the docs. We're still in draft mode.
+- Make any hard/concrete/extremely specific requests - we want to nail the GOALS and split hairs on the details.
