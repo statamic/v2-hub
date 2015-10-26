@@ -1,5 +1,4 @@
 # v2-beta (Alpha 1)
-Shell repo for Statamic 2.0 alpha/beta
 ---
 
 ## Contribution Guide
