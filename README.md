@@ -1,4 +1,4 @@
-# v2-beta (Alpha 4)
+# v2-beta (Alpha 6)
 
 ## Contribution Guide
 
