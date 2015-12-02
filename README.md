@@ -1,4 +1,4 @@
-# v2-beta (Beta 5)
+# v2-beta (Beta 6)
 
 ## Contribution Guide
 
