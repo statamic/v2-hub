@@ -24,6 +24,6 @@ On [Slack](http://slack.statamic.com)! If you're not in the `#beta` room you're 
 
 First, make sure it's not a cache issue. Clear your cache using `php please cache:clear` or delete everything inside `local/cache` and `local/storage` and try again. If your issue goes away, let us know what happened so we can fine tune our cache invalidation. Otherwise, open an [Issue](https://github.com/statamic/v2-beta/issues/new) with as much detail as you can. PHP/Server environment, content types, YAML/template examples, etc.
 
-## [The Community Wiki]((https://github.com/statamic/v2-beta/wiki)
+## [The Community Wiki](https://github.com/statamic/v2-beta/wiki)
 
 Feel free to use the Community Wiki to drop in notes for other beta users and for us to reference as we continue to write and refine the documentation. Anything is fair game.
