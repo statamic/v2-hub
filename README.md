@@ -20,7 +20,7 @@ Yup! Feel free to build and launch something. We’d love to see it! Just know t
 
 On [Slack](http://slack.statamic.com)! If you're not in the `#beta` room you're missing out. On gifs.
 
-### OMG something broke where do submit a bug??
+### OMG something broke where do I submit a bug??
 
 First, make sure it's not a cache issue. Clear your cache using `php please cache:clear` or delete everything inside `local/cache` and `local/storage` and try again. If your issue goes away, let us know what happened so we can fine tune our cache invalidation. Otherwise, open an [Issue](https://github.com/statamic/v2-beta/issues/new) with as much detail as you can. PHP/Server environment, content types, YAML/template examples, etc.
 
