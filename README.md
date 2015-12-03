@@ -10,7 +10,7 @@ Right here in Github. Head to the [Releases section](https://github.com/statamic
 
 ### Where are the docs?
 
-Right here: <http://docs.talonsbeard.com>. Please don't share them publically.
+Right here: <http://docs.talonsbeard.com>. Please don't share them publicly.
 
 ### Is the beta production ready?
 
