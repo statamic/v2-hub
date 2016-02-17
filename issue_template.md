@@ -16,7 +16,7 @@ Tell us what happens instead
 
 **PHP version:**
 
-**Statamic version:** (see ownCloud admin page)
+**Statamic version:**
 
 **Updated from an older Statamic or fresh install:**
 
