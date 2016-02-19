@@ -1,6 +1,6 @@
 # Public Beta 17
 
-After nearly 3,000 commits, nearly a year of development, and nearly a swimming pool’s worth of coffee, we’re finally here! Thank you for being willing to try, test, and experiment with pre-release software. You are a neat person.
+After nearly 4,000 commits, nearly a year of development, and nearly a swimming pool’s worth of coffee, we’re finally here! Thank you for being willing to try, test, and experiment with pre-release software. You are a neat person.
 
 
 ## Answers to questions you probably have
