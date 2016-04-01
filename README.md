@@ -1,31 +1,18 @@
-# Public Beta 20
+# Statamic 2 Feature Requests and Bug Reports
 
-After nearly 4,000 commits, nearly a year of development, and nearly a swimming pool’s worth of coffee, we’re finally here! Thank you for being willing to try, test, and experiment with pre-release software. You are a neat person.
+## Reporting a bug
 
+1. Check to see if there's a similar issue filed already (open or closed). 
 
-## Answers to questions you probably have
+2. Make sure it's not a cache issue. Clear your cache using `php please cache:clear` or delete everything inside `local/cache` and `local/storage` and try again. If your issue goes away, let us know what happened so we can fine tune our cache invalidation.
+3. Otherwise, open an Issue with as much detail as you can. PHP/Server environment, content types, YAML/template examples, etc. Feel free to remove any non-applicable sections of the Issue template.
 
-### Where do I get the latest release?
-Right here in Github. Head to the [Releases section](https://github.com/statamic/v2-beta/releases) and download the latest packaged zip file (not **Source Code**).
+## Requesting a feature
 
-### Where are the docs?
+Fire up an Issue and remove the bug report template stuff and write away. Tag with a `feature request` label.
 
-Right here: <http://docs.talonsbeard.com>. Please don't share them publicly.
+## Useful Links
 
-### Is the beta production ready?
-
-Yup! Feel free to build and launch something. We’d love to see it! Just know that there’s a higher than normal chance of a bug or snag or something, and that during the beta there may be backwards incompatible changes that would require manual changes to your site, so keep that in mind.
-
-### Where's the discussion happening?
-
-On [Slack](http://slack.statamic.com)! If you're not in the `#beta` room you're missing out. On gifs.
-
-### OMG something broke where do I submit a bug??
-
-First, check to see if there's a similar issue filed already (open or closed). 
-
-Next, make sure it's not a cache issue. Clear your cache using `php please cache:clear` or delete everything inside `local/cache` and `local/storage` and try again. If your issue goes away, let us know what happened so we can fine tune our cache invalidation. Otherwise, open an [Issue](https://github.com/statamic/v2-beta/issues/new) with as much detail as you can. PHP/Server environment, content types, YAML/template examples, etc.
-
-## [The Community Wiki](https://github.com/statamic/v2-beta/wiki)
-
-Feel free to use the Community Wiki to drop in notes for other beta users and for us to reference as we continue to write and refine the documentation. Anything is fair game.
+- The Docs: <https://docs.statamic.com>
+- The Lodge forums for any non-bug-report relation discussions and questions: <https://lodge.statamic.com>
+- Slack for chatting with the community _right now_: <http://slack.statamic.com>
