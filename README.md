@@ -9,7 +9,7 @@
 
 ## Requesting a feature
 
-Fire up an Issue and remove the bug report template stuff and write away. Tag with a `feature request` label.
+Fire up an Issue and remove the bug report template stuff and write away.
 
 ## Useful Links
 
