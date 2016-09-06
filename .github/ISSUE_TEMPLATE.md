@@ -1,13 +1,13 @@
+### Expected behaviour
+Tell us what you assumed would happen, as optimistically as possible.
+
+### Actual behaviour
+Tell us what happened instead
+
 ### Steps to reproduce
 1.
 2.
 3.
-
-### Expected behaviour
-Tell us what should happen
-
-### Actual behaviour
-Tell us what happens instead
 
 ### Server configuration
 **Operating system**:
@@ -24,21 +24,7 @@ Tell us what happens instead
 
 
 ### Logs
-#### Web server error log
+If any logs (browser, server, or Statamic) are appropriate...
 ```
-Insert your webserver log here
-```
-
-#### Statamic error log (`/local/storage/logs/statamic.log`)
-```
-Insert Statamic log here
-```
-
-#### Browser log
-```
-Insert your browser log here, this could for example include:
-
-a) The javascript console log
-b) The network log 
-c) ...
+Add those logs here
 ```
