@@ -5,9 +5,9 @@ Tell us what you assumed would happen, as optimistically as possible.
 Tell us what happened instead
 
 ### Steps to reproduce
-1.
-2.
-3.
+1.  
+2.  
+3.  
 
 ### Server configuration
 **Operating system**:
