@@ -1,5 +1,6 @@
 ### Expected behaviour
-Tell us what you assumed would happen, as optimistically as possible.
+Tell us what you assumed would happen, as optimistically as possible.  
+If it's just "it should work", you can remove this section.
 
 ### Actual behaviour
 Tell us what happened instead
