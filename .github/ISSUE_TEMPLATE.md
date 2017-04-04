@@ -1,5 +1,5 @@
 ### Expected behaviour
-Tell us what you assumed would happen, as optimistically as possible.  
+Tell us what you assumed would happen, as optimistically as possible. We're here to help/ :)
 If it's just "it should work", you can remove this section.
 
 ### Actual behaviour
@@ -10,14 +10,15 @@ Tell us what happened instead
 2.  
 3.  
 
-### Server configuration
-**Operating system**:
+### Server Details
 
-**Web server:**
+**Operating System**:
 
-**PHP version:**
+**Web Server:**
 
-**Statamic version:**
+**PHP Version:**
+
+**Statamic Version:**
 
 **Updated from an older Statamic or fresh install:**
 
@@ -26,6 +27,8 @@ Tell us what happened instead
 
 ### Logs
 If any logs (browser, server, or Statamic) are appropriate...
+<details>
 ```
-Add those logs here
+Paste em here
 ```
+</details>
