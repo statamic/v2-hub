@@ -15,6 +15,3 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
-
-**Would you be willing to sponsor this feature?**
-Whether as a core feature or an addon, a donation can sometimes go a long way towards prioritizing.
